@@ -13,6 +13,8 @@ namespace HelloWorldVS2015GIT
             Console.WriteLine("Hello World (VS2015/GITHub version)");
 
             Console.WriteLine("2nd line of hello world test");
+
+            Console.WriteLine("Adding a test output from a branch");
         }
     }
 }

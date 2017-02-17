@@ -10,6 +10,8 @@ namespace HelloWorldVS2015GIT
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World (VS2015/GITHub version)");
+
         }
     }
 }
